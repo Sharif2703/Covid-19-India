@@ -1,0 +1,8 @@
+//Returns a list of all states in the state table
+//API 1
+GET http://localhost:3000/states/
+###
+
+//Returns a state based on the state ID
+//API 2
+GET http://localhost:3000/states/:1/
